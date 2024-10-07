@@ -24,8 +24,14 @@ python test.py
 ```
 
 ## Visual comparison
-![](./Figures/visual1.png)
-![](./Figures/visual2.png)
+- Blind Image Restoration
+![](./Figures/result1.png)
+
+- Single Image Rain Removal
+![](./Figures/result2.png)
+
+- Single Image Haze Removal
+![](./Figures/result3.png)
 
 ## Citation
 If you use this code or ideas from the paper for your research, please cite our paper:
