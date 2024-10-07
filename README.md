@@ -66,7 +66,7 @@ If you use this code or ideas from the paper for your research, please cite our 
 ```
 
 ## Acknowledgement
-Part of the code is adapted from previous works: [IRCNN](https://github.com/cszn/IRCNN) and [IRCNN](https://github.com/cszn/DPIR). We thank all the authors for their contributions.
+Part of the code is adapted from previous works: [IRCNN](https://github.com/cszn/IRCNN) and [DPIR](https://github.com/cszn/DPIR). We thank all the authors for their contributions.
 
 Please contact me if you have any questions at: jiaxinn.gao@outlook.com
 
