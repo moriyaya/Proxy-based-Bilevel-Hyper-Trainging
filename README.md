@@ -26,7 +26,7 @@ python test.py
 - Hyper-Guidance Verication
 <p align="center">
     <img src="./Figures/training.png" alt="training" width="45%" style="margin-right: 10px;"/>
-    <img src="./Figures/training2.png" alt="training2" width="45%"/>
+    <img src="./Figures/training2.png" alt="training2" width="35%"/>
 </p>
 
 
