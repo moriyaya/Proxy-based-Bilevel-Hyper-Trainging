@@ -22,26 +22,33 @@ python main.py
 ```
 python test.py
 ```
-## Partial Results
+## Model Evaluation and Analysis
+- Hyper-Guidance Verication
+<p align="center">
+    <img src="./Figures/training.png" alt="training" width="45%" style="margin-right: 10px;"/>
+    <img src="./Figures/training2.png" alt="training2" width="45%"/>
+</p>
+
+
+
+
+## Visual comparison
 - Blind Image Restoration
 <p align="center">
-    <img src="./Figures/Result1.png" alt="Figure 4-1" width="35%" style="margin-right: 10px;"/>
-    <img src="./Figures/result1.png" alt="Figure 4-2" width="35%"/>
+    <img src="./Figures/Result1.png" alt="Result1" width="70%">
 </p>
-2. GAN and Its Variants: 
+
+- Single Image Rain Removal
+<p align="center">
+    <img src="./Figures/Result2.png" alt="Result2" width="70%">
+</p>
+
+- Single Image Haze Removal
 <p align="center">
     <img src="./Figures/Result3.png" alt="Result3" width="70%">
 </p>
 
-## Visual comparison
-- Blind Image Restoration
-![](./Figures/result1.png)
-
-- Single Image Rain Removal
-![](./Figures/result2.png)
-
-- Single Image Haze Removal
-![](./Figures/result3.png)
+ 
 
 ## Citation
 If you use this code or ideas from the paper for your research, please cite our paper:
