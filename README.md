@@ -22,6 +22,16 @@ python main.py
 ```
 python test.py
 ```
+## Partial Results
+- Blind Image Restoration
+<p align="center">
+    <img src="./Figures/result1.png" alt="Figure 4-1" width="35%" style="margin-right: 10px;"/>
+    <img src="./Figures/result1.png" alt="Figure 4-2" width="35%"/>
+</p>
+2. GAN and Its Variants: 
+<p align="center">
+    <img src="./Figures/result3.png" alt="CIFAR comparison" width="70%">
+</p>
 
 ## Visual comparison
 - Blind Image Restoration
